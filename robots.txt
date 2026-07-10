@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /thank-you
+Disallow: /es/thank-you
+Disallow: /message-received
+Disallow: /es/message-received
+
+Sitemap: https://wiltonplaza.com/sitemap.xml
