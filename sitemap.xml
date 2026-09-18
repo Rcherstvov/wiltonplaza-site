@@ -50,11 +50,6 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://wiltonplaza.com/florida-business-address-for-stripe-amazon-sunbiz/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
     <loc>https://wiltonplaza.com/virtual-office-fort-lauderdale/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -301,11 +296,29 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://wiltonplaza.com/pt/international/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://wiltonplaza.com/international/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://wiltonplaza.com/es/international/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://wiltonplaza.com/pt/international/" />
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://wiltonplaza.com/blog/south-florida-virtual-office-guide/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
 
+  <url>
+    <loc>https://wiltonplaza.com/blog/florida-llc-principal-address-vs-registered-agent/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wiltonplaza.com/blog/business-address-for-ein-florida/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   <url>
     <loc>https://wiltonplaza.com/blog/florida-virtual-office/</loc>
     <changefreq>monthly</changefreq>
